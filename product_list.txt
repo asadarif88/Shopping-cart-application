@@ -1,0 +1,10 @@
+Product: gloves, Price: 1000, Quantity: 100
+Product: mouse, Price: 5000, Quantity: 100
+Product: keyboard, Price: 2000, Quantity: 97
+Product: slippers, Price: 700, Quantity: 90
+Product: notebook, Price: 280, Quantity: 100
+Product: shoes, Price: 2500, Quantity: 100
+Product: hairbands, Price: 25, Quantity: 100
+Product: hoodie, Price: 899, Quantity: 100
+Product: blackpen, Price: 15, Quantity: 100
+Product: eraser, Price: 20, Quantity: 100
